@@ -1,0 +1,8 @@
+.navlink {
+    text-decoration: none;
+    padding: 16px;
+}
+
+.navlink:hover {
+    background: blue;
+}
